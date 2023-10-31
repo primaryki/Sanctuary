@@ -1,4 +1,4 @@
-# Brainstorm Ideas
+[# Brainstorm Ideas
 
 Jawad:
 1. **Scrimmage**
@@ -107,3 +107,4 @@ After deliberation, the idea chosen was the Sanctuary app. Some factors influenc
 1. The application's design and implementation felt within our capabilities.
 2. The application's appeal to a wide market
 3. Overal wholesome feeling :)
+](https://hackmd.io/VG_YoCBoTiWbVR3UzW24Ew?view)https://hackmd.io/VG_YoCBoTiWbVR3UzW24Ew?view
